@@ -1,11 +1,5 @@
 # AirBnB clone
 
-## Feature
-
-Command Interpreter
-
-## Description
-
 The Command Interpreter is used to manage the application's functionality:
 
 - Create a new object.
@@ -56,7 +50,9 @@ Commands
 |              | updating attribute                 | class_id key  |
 |              |                                    | value>        |
 
-## Tests
+
+
+##  Tests
 
 To execute the tests, run the command below from the root directory:
 
